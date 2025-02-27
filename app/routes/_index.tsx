@@ -65,6 +65,7 @@ export default function Index() {
     setColors(initColorData);
     setGameOver(false);
     setMessage("");
+    setCurrentAttempt(0);
   };
 
   const initColors = (evaluation: ApiData[]) => {
