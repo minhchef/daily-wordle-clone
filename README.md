@@ -3,6 +3,7 @@
 Run the dev server:
 
 ```shellscript
+npm install
 npm run dev
 ```
 
