@@ -1,3 +1,9 @@
+## Install
+
+```shellscript
+npm install
+```
+
 ## Development
 
 Run the dev server:
